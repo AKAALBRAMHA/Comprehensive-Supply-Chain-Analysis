@@ -4,7 +4,8 @@
 **[Supply Chain Dataset](https://www.kaggle.com/datasets/amirmotefaker/supply-chain-dataset)**
 
 ### Objective: 
-- Analyze the supply chain data of a makeup product line to provide insights on sales performance, inventory management, and supplier efficiency.
+- Supply chain analytics is essential for data-driven decision-making across diverse industries, including manufacturing, retail, healthcare, and logistics. It involves the systematic collection, analysis, and interpretation of data related to the movement of products and services from suppliers to customers. This process helps organizations optimize operations, reduce costs, and improve overall efficiency by providing valuable insights into supply chain performance.
+
 
 ### Table
 |**Type**| **Project**|**Status**|
