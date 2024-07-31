@@ -10,8 +10,8 @@
 ### Table
 |**Type**| **Project**|**Status**|
 |:-------------------:|:-------------------:|:-------------------:|
-| **Descriptive**   | [Supplier Performance Analysis](Supplier_Performance_Analysis.ipynb) |&#9745;|
-|                   | Sales Performance Analysis|&#9744;|
+| **Descriptive**   | [Supplier Performance Analysis](https://github.com/AKAALBRAMHA/Comprehensive-Supply-Chain-Analysis/blob/main/Supplier_Performance_Analysis.ipynb) |&#9745;|
+|                   | [Sales Performance Analysis](https://github.com/AKAALBRAMHA/Comprehensive-Supply-Chain-Analysis/blob/main/Supplier_Performance_Analysis.ipynb)|&#9745;|
 |                   | Cost Analysis|&#9744;|
 | **Predictive**    | Demand Forecasting|&#9744;|
 |                   | Customer Segmentation|&#9744;|
